@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Phantom files
+*.py~
+*.md~
+
+# Folder for tools
+tools/
